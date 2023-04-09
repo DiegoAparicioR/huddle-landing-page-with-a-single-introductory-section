@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://diegoaparicior.github.io/huddle-landing-page-with-a-single-introductory-section/]
 
 ## My process
 
